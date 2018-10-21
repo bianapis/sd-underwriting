@@ -1,0 +1,22 @@
+{
+  "customerEmploymentHistory" : "Employment History",
+  "customerDebtStatement" : "Bank And Known Non-bank Managed Debts",
+  "underwritingAssessment" : "underwritingAssessment",
+  "underwritingAssessmentReference" : "8Z232342",
+  "customerProductEligibilityTerms" : "Product Eligibility Terms",
+  "customerIncomeStatement" : "Income Statement",
+  "evaluationResult" : "evaluationResult",
+  "proposedLoanAmount" : "500",
+  "productInstanceReference" : "8Z232342",
+  "customerReference" : "8Z232342",
+  "collateralItemValuation" : "Item valuation",
+  "loanPurpose" : "Loan Purpose",
+  "collateralItemReference" : "8Z232342",
+  "customerReferenceDetails" : "Customer Reference Details",
+  "documentReference" : "8Z232342",
+  "customerProductServicePaymentHistory" : "Product Service Payment History",
+  "collateralItemType" : "Collateral Item Type",
+  "proposedLoanTerms" : "Proposed Loan Terms",
+  "customerAssetStatement" : "Bank And Known Non-bank Managed Debts",
+  "customerCreditAssessment" : "Customer Credit Assessment"
+}

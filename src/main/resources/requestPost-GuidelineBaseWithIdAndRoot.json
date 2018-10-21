@@ -1,0 +1,15 @@
+{
+  "requiredCustomerEmploymentHistoryDetails" : "Employment History Details",
+  "underwritingAssessmentReference" : "8Z232342",
+  "requiredCustomerProductServicePaymentHistory" : "Customer Product Service Payment History",
+  "underwritingGuidelineRequestReference" : "UGRR123",
+  "requiredCustomerCreditAssessment" : "Customer Credit Assessment",
+  "productServiceType" : "ServiceType",
+  "proposedLoanAmount" : "500",
+  "proposedCollateralItemValuation" : "Item valuation",
+  "customerType" : "Customer Type",
+  "requiredCustomerDebtAssetStatement" : "Customer Debt Asset Statement",
+  "requiredCollateralCoverage" : "Collateral Coverage",
+  "proposedCollateralItemType" : "Collateral Item Type",
+  "requiredCustomerDocuments" : "proof of identity"
+}
